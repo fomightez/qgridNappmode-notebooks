@@ -20,4 +20,4 @@ You can check out the `appmode` repository here: https://github.com/oschuett/app
 
 ### Issues
 
-I had tried adding ggrid to my working appmode repo but that didn't seem to work in that although I got no errors, the dataframes weren't being rendered as they were at the demo hosted [here](https://github.com/quantopian/qgrid-notebooks) and launchabe via [here](https://beta.mybinder.org/v2/gh/quantopian/qgrid-notebooks/master?filepath=index.ipynb).
+I had tried adding ggrid to my working appmode repo but that didn't seem to work in that although I got no errors, the dataframes weren't being rendered as they were at the demo hosted [here](https://github.com/quantopian/qgrid-notebooks) and launchable via [here](https://beta.mybinder.org/v2/gh/quantopian/qgrid-notebooks/master?filepath=index.ipynb).
