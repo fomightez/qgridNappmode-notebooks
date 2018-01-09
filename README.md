@@ -15,7 +15,7 @@ You can check out the `appmode` repository here: https://github.com/oschuett/app
 ----
 
 ### Post-Fork Differences
-- After copying the base `qgrid-notebooks` exampple, I added appmode and my other favorite dependencies as in my appmode repo. In order to add appmode and the ones possible to the `environment.yml` and then tested. Seemed to work as appmode worked. Finally to finish adding those dependences I like, I added a `postBuild` file to add the dependencies conda cannot handle. 
+- After forking the the base `qgrid-notebooks` example, I added appmode and my other favorite dependencies as in [my appmode repo](https://github.com/fomightez/appmode). In order to add appmode and the ones possible to the `environment.yml` and then tested. Seemed to work as appmode worked. Finally to finish adding those dependences I like, I added a `postBuild` file to add the dependencies conda cannot handle. 
 
 
 ### Issues
