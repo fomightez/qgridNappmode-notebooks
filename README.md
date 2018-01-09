@@ -15,9 +15,9 @@ You can check out the `appmode` repository here: https://github.com/oschuett/app
 ----
 
 ### Post-Fork Differences
-- I added appmode and my other favorite dependencies as in my appmode repo. In order to add appmode and the ones possible to the `environment.yml` and then tested. Seemed to work as appmode worked. Finally to finish adding those dependences I like, I added a `postBuild` file to add the dependencies conda cannot handle. 
+- After copying the base `qgrid-notebooks` exampple, I added appmode and my other favorite dependencies as in my appmode repo. In order to add appmode and the ones possible to the `environment.yml` and then tested. Seemed to work as appmode worked. Finally to finish adding those dependences I like, I added a `postBuild` file to add the dependencies conda cannot handle. 
 
 
 ### Issues
 
-I had tried adding ggrid to my working appmode repo but that didn't seem to work in that although I got no errors, the dataframes weren't being rendered as they were at the demo hosted [here](https://github.com/quantopian/qgrid-notebooks) and launchable via [here](https://beta.mybinder.org/v2/gh/quantopian/qgrid-notebooks/master?filepath=index.ipynb).
+I had tried adding qgrid to my working appmode repo but that didn't seem to work. I didn't see any error reports, but the dataframes weren't being rendered as they were at the demo hosted [here](https://github.com/quantopian/qgrid-notebooks) and launchable via [here](https://beta.mybinder.org/v2/gh/quantopian/qgrid-notebooks/master?filepath=index.ipynb).
