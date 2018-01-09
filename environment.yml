@@ -12,3 +12,7 @@ dependencies:
   - appmode
   - seaborn
   - statsmodels
+  - pip:
+    - vpnotebook
+    - vpython
+    - matplotlib_venn
