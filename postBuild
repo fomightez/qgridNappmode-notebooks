@@ -1,5 +1,1 @@
 #!/bin/bash
-
-pip install vpnotebook
-pip install vpython
-pip install matplotlib_venn
