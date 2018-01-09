@@ -4,7 +4,7 @@
 
 This repository demonstrates how to use both qgrid and appmode with Binder. 
 
-qgrid is an interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks, and is described [here](https://github.com/quantopian/qgrid).
+qgrid is an interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks, and is described [here](https://github.com/quantopian/qgrid). This is my fork demonstrating use in Binder and came from [here](https://github.com/quantopian/qgrid-notebooks).
 
 Appmode is similar to how Shiny apps work in R.
 Using the `appmode` Jupyter plugin, a notebook's code will be run, and then only the markdown cells and
