@@ -8,4 +8,8 @@ dependencies:
   - qgrid=1.0.0
   - pandas-datareader>=0.5.0
   - matplotlib>=2.1.1
+  - ipyvolume
+  - appmode
+  - seaborn
+  - statsmodels
 
